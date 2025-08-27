@@ -1,8 +1,7 @@
-# ESP32 Remote Display – Worksheet
+# ESP32 Remote Display – Project
 
 
-
-**Module/Project:** ESP32 Remote Display with Sub‑GHz Radio & Low‑Power UX
+**Module/Project:** ESP32 Remote Display with Sub‑GHz Radio & Low‑Power UX (apart of my final year project)
 **Author:** Jack Holdsworth
 
 - [ESP32 Remote Display – Worksheet](#esp32-remote-display--worksheet)
@@ -29,8 +28,6 @@
 
 ### Device Gallery
 
-* UWE Logo:
-  ![UWE](img/uwe-bristol-logo.png)
 * Keychain prototype with display:
   ![Keychain prototype](img/keychain-prototype-screen.jpg)
 
