@@ -1,0 +1,7 @@
+{
+    "board": "esp32:esp32:adafruit_feather_esp32s2_reversetft",
+    "sketch": "remote.ino",
+    "port": "COM6",
+    "programmer": "esptool",
+    "output": "./build"
+}
